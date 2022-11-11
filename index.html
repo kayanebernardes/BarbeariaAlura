@@ -5,7 +5,6 @@
         <title>Barbearia Alura</title>
         <link rel="stylesheet" href="style.css">
     </head>
-
     <body>
         <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
 

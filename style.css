@@ -1,7 +1,16 @@
-body {
-    background: #CCCCCC
+h1 {
+    text-align: center;
+    color: crimson;
 }
 
 p {
     text-align: center;
+}
+
+body {
+    background: #77155e;
+}
+
+em strong {
+    color: blueviolet;
 }
